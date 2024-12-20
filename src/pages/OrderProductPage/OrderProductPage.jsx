@@ -299,13 +299,13 @@ const OrderProductPage = () => {
         <Topbar title="Quản lý đơn hàng" />
       </div>
 
-      <div className="order-table-container11">
+      <div className="order-table-container112">
         <header className="order-header">
           <div className="header-actions">
             <Input.Search
               placeholder="Tìm kiếm đơn hàng..."
               onChange={(e) => setSearchText(e.target.value)}
-              style={{ width: 200 }}
+              style={{ width: 800 }}
             />
             <Button
               type="primary"

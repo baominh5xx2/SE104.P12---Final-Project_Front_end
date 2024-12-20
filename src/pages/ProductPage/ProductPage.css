@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&display=swap');
 
 
-.order-table-container1 {
+.order-table-container_product {
   margin-left: 270px;
   padding: 20px;
   background-color: #f9f9f9;
@@ -14,7 +14,7 @@
     overflow: hidden; /* Hide both scrollbars */
   }
   .table-containerr {
-    width: 1200px ;
+    width: 1140px ;
     margin-left: 30px;
   }
   .detail{
@@ -22,9 +22,8 @@
   }
   /* Add this to ensure proper table layout */
   .ant-table {
-    width: 1190px;
+    width: 1140px;
     margin: 0;
-    margin-left: -40px;
     background: #fff;
     border-radius: 8px;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);

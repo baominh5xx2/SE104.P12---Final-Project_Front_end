@@ -116,7 +116,7 @@ const CustomerDetail = () => {
         <Topbar title="Thông tin chi tiết khách hàng" />
       </div>
 
-      <div className="customer-detail">
+      <div className="customer-detaill">
         <div className="customer-info">
           <div className="left-section">
             <div className="avatar-placeholder">

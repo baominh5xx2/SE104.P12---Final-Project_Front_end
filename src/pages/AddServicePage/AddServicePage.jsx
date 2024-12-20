@@ -194,7 +194,7 @@ const App = () => {
   return (
     <Layout className="app-layout">
       {/* Sidebar */}
-      <div className="bod">
+      <div className="addsp">
         {/* Nội dung chính */}
         <Layout>
         <Content className="app-content">

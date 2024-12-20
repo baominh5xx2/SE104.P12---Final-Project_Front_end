@@ -121,7 +121,7 @@ const ProductDetailForm = () => {
         <Topbar title="Chi tiết sản phẩm" />
       </div>
 
-      <div className="product-detail">
+      <div className="product-detaill">
         {/* Thông tin chung */}
         <div className="section">
           <div className="section-header">

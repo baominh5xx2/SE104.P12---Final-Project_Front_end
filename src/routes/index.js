@@ -33,7 +33,7 @@ const routes = [
         path: '/dashboard',
         page: Dashboard,
         isShowHeader: true,
-        protected: true,
+        protected: false,
     },
     {
         path: 'list-customer',

@@ -247,7 +247,7 @@ const ImportProduct = () => {
         <Topbar title="Quản lý phiếu mua hàng" />
       </div>
 
-      <div className="order-table-container12">
+      <div className="order-table-container_import">
         <header className="order-header">
           <div className="header-actions">
             <Input.Search

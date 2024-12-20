@@ -262,7 +262,7 @@ const ProductPage = () => {
         <Topbar title="Quản lý sản phẩm" />
       </div>
 
-      <div className="order-table-container1">
+      <div className="order-table-container_product">
         <header className="order-header">
           <div className="header-actions">
             <Input.Search
